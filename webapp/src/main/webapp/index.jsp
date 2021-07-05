@@ -4,6 +4,6 @@
 <h3> Ansible Deployment for Docker Image and container </h3>
 <h3> Deploy on Container using Ansible </h3>
 <h2> Glad to see you here </h2>
-<h3> Welcome Deepak Kushwah </h3>
+<h3> Welcome Mandeep Singh Oberoi, </h3>
 
 <h3> Integration with Docker </h3>
