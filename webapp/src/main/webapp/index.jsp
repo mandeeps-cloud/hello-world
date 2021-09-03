@@ -8,3 +8,7 @@
 
 <h2> One Last Deployment for Kubernetes </h2>
 <h3> Integration with Docker </h3>
+
+<h3> Jenkins --> Maven --> Java app .war ---> Apache Server Deployment---> Plugin used "deploy on container" 
+and for maven--> maven integration and maven invoker </h3>
+
